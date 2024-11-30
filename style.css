@@ -1,6 +1,27 @@
 .hero{
-	background-image: url("images/wall.jpeg");
+	background-image: url("mount.jpg");
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: white
+
+}
+h1{
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+}
+.buttons {
+	background-color: #372fd0;
+	color:#2ec6d1 ;
+	padding: 1rem;
+	border-radius: 1rem;
+	text-decoration: none;
+	font-size: 0.9rem;
+}
+.buttons:hover{
+	background-color: #19165f;
 }
