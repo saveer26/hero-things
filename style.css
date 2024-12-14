@@ -29,3 +29,19 @@ h1{
 #thing12 {
 	margin: 5rem;
 }
+#thing {
+	background-image: url("mount2.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	flex-direction: column;
+}
+#h12 {
+	color: black;
+	display: flex;
+}
