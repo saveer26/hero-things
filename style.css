@@ -30,7 +30,7 @@ h1{
 	margin: 5rem;
 }
 #thing {
-	background-image: url("mount2.jpg");
+	background-image: url("images/ocean.jpg");
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
@@ -41,7 +41,13 @@ h1{
 	color: white;
 	flex-direction: column;
 }
-#h12 {
+.h12 {
 	color: black;
 	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:teal ;
+}
+#y1{
+padding: 2rem;
 }
