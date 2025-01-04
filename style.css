@@ -48,6 +48,39 @@ h1{
 	align-items: center;
 	background-color:teal ;
 }
-#y1{
+.y1{
 padding: 2rem;
+border-radius: 15%;
+}
+#x17 {
+	align-items: center;
+	background-color: #0d53f2;
+}
+
+#n13 {
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #ad4800;
+	border-radius: 20px;
+	margin: 20px;
+}
+#n14 {
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #4a00ad;
+	border-radius: 20px;
+	margin: 20px;
+}
+#n15 {
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #02ad4a;
+	border-radius: 20px;
+	margin: 20px;
 }
